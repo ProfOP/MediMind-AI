@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seasonal-allergies",
+    "title": "Seasonal allergic rhinitis",
+    "category": "Allergies",
+    "description": "General educational information about seasonal nasal allergies.",
+    "content": "Seasonal allergic rhinitis is an allergic response to airborne substances such as pollen. Common symptoms can include sneezing, a runny or blocked nose, and itchy or watery eyes. Symptoms and triggers vary between people. A healthcare professional can help assess persistent or disruptive symptoms and discuss appropriate options.",
+    "source": {"name": "MedlinePlus: Allergic Rhinitis", "url": "https://medlineplus.gov/ency/article/000813.htm"}
+  },
+  {
+    "id": "asthma-basics",
+    "title": "Asthma overview",
+    "category": "Respiratory health",
+    "description": "A brief overview of asthma and common symptoms.",
+    "content": "Asthma is a long-term condition affecting the airways. Symptoms can include wheezing, coughing, chest tightness, and shortness of breath, and may vary over time. Triggers differ among individuals. A clinician can assess symptoms and help create an individualized management plan. Severe breathing difficulty needs urgent medical attention.",
+    "source": {"name": "MedlinePlus: Asthma", "url": "https://medlineplus.gov/asthma.html"}
+  },
+  {
+    "id": "headache-overview",
+    "title": "Headache overview",
+    "category": "Symptoms",
+    "description": "General information about headaches and when to seek care.",
+    "content": "Headaches have many possible causes and patterns. A headache that is sudden and severe, follows a head injury, or occurs with new weakness, confusion, vision changes, or difficulty speaking needs urgent assessment. Recurrent, worsening, or concerning headaches should be discussed with a healthcare professional. This information cannot identify the cause of an individual headache.",
+    "source": {"name": "MedlinePlus: Headache", "url": "https://medlineplus.gov/headache.html"}
+  }
+]

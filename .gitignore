@@ -1,0 +1,44 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyd
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Project-local caches and temporary files
+.cache/
+.tmp/
+.localhome/
+.streamlit/secrets.toml
+*.log
+
+# Generated local application data and model stores
+data/*
+!data/.gitkeep
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Node/tooling artifacts, if added later
+node_modules/

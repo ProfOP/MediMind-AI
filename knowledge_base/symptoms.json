@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fever-basics",
+    "title": "Fever basics",
+    "category": "Symptoms",
+    "description": "General educational information about fever.",
+    "content": "A fever is a rise in body temperature and can occur with many illnesses. The significance of a fever depends on age, symptoms, health history, and how it was measured. Seek professional advice for a high or persistent fever, for a very young infant, or when fever occurs with severe symptoms. Do not use this summary to decide on medication doses.",
+    "source": {"name": "MedlinePlus: Fever", "url": "https://medlineplus.gov/fever.html"}
+  },
+  {
+    "id": "dehydration-basics",
+    "title": "Dehydration overview",
+    "category": "Symptoms",
+    "description": "General educational information about dehydration.",
+    "content": "Dehydration happens when the body loses more fluid than it takes in. Possible signs include thirst, dry mouth, and reduced urination. Confusion, fainting, inability to keep fluids down, or severe weakness warrants urgent medical assessment. The cause and appropriate care depend on the person and situation.",
+    "source": {"name": "MedlinePlus: Dehydration", "url": "https://medlineplus.gov/dehydration.html"}
+  }
+]

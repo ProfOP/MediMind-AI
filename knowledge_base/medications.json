@@ -1,0 +1,18 @@
+[
+  {
+    "id": "medication-safety",
+    "title": "Medication safety basics",
+    "category": "Medication information",
+    "description": "General safety principles for using medicines.",
+    "content": "Use medicines only as directed by the label or a qualified healthcare professional. Ask a pharmacist or clinician about interactions, allergies, side effects, and questions about a medicine. Do not start, stop, share, or change a medicine based only on an online assistant. This prototype does not provide medication or dosage recommendations.",
+    "source": {"name": "MedlinePlus: Medicines", "url": "https://medlineplus.gov/medicines.html"}
+  },
+  {
+    "id": "antibiotic-basics",
+    "title": "Antibiotics: general information",
+    "category": "Medication information",
+    "description": "Basic educational information about antibiotics.",
+    "content": "Antibiotics are used for certain bacterial infections and do not treat viral infections such as colds or flu. Whether an antibiotic is appropriate is a decision for a licensed healthcare professional. Follow the directions provided for a prescribed medicine and ask the prescriber or pharmacist if you have questions. This assistant cannot recommend a specific antibiotic or dose.",
+    "source": {"name": "CDC: Antibiotic Use", "url": "https://www.cdc.gov/antibiotic-use/about/index.html"}
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "when-to-seek-care",
+    "title": "When should I contact a clinician?",
+    "category": "FAQ",
+    "description": "A general guide to seeking professional health advice.",
+    "content": "Contact a qualified healthcare professional for new, persistent, worsening, or concerning symptoms, or when you are unsure what to do. Seek emergency help for severe or rapidly worsening symptoms. The right level of care depends on the person's age, health history, and symptoms.",
+    "source": {"name": "MedlinePlus: When to Call a Doctor", "url": "https://medlineplus.gov/ency/patientinstructions/000593.htm"}
+  },
+  {
+    "id": "allergy-triggers",
+    "title": "Can allergy triggers differ?",
+    "category": "FAQ",
+    "description": "A brief note on individual allergy triggers.",
+    "content": "Yes. People can react to different substances, and symptoms may vary. A clinician can help evaluate recurring symptoms and possible triggers. Do not assume that a symptom is an allergy without appropriate assessment.",
+    "source": {"name": "MedlinePlus: Allergic Rhinitis", "url": "https://medlineplus.gov/ency/article/000813.htm"}
+  },
+  {
+    "id": "emergency-stroke-signs",
+    "title": "Possible stroke warning signs",
+    "category": "Emergency information",
+    "description": "Recognizing possible stroke symptoms is time-sensitive.",
+    "content": "Sudden face drooping, weakness or numbness in an arm, difficulty speaking, sudden vision trouble, loss of balance, or a severe sudden headache can be warning signs of stroke. Call local emergency services immediately if stroke is suspected. Do not wait to see whether symptoms pass.",
+    "source": {"name": "CDC: Signs and Symptoms of Stroke", "url": "https://www.cdc.gov/stroke/signs-symptoms/index.html"}
+  }
+]
